@@ -48,3 +48,24 @@
 12. Create Product Details Screen
     1. fetch product from backend
     2. create 3 columns for image, info, and action
+13. create Loading and Message Component
+    1. create loading component
+    2. use spinner component
+    3. create message component
+    4. createt utils.js to define geterror function
+14. Implement Add to Cart
+    1. Create React Context
+    2. define reducer
+    3. create store provider
+    4. implement add to cart button click handler
+15. Complete Add to Cart
+    1. check exist item in the cart
+    2. check count in stock in backend
+16. Create cart Screen
+    1. create 2 columns
+    2. display items list
+    3. create action column
+17. Complete Cart Screen
+    1. click handler for inc/dec item
+    2. click handler for remove item
+    3. click handler for checkout
