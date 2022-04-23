@@ -78,3 +78,21 @@
     2. install local mongodb database
     3. npm install mongoose
     4. connect to mongodb database
+20. Seed Sample Data
+    1. create Product model
+    2. create User model
+    3. create seed route
+    4. use route in server.js
+    5. seed sample product
+21. Seed Sample Users
+    1. create user model
+    2. seed sample users
+    3. create user routes
+22. Create signin Backend API
+    1. create signin API
+    2. npm install jsonwebtoken
+    3. define generateToken
+23. Complete signin screen
+    1. handle submit action
+    2. save token in store and local storage
+    3. show user name in header
