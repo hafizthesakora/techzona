@@ -7,7 +7,7 @@
 3. Create React App
 4. Create Git Repository
 5. List Products
-   1. craete products array
+   1. create products array
    2. add product images
    3. render products
    4. style products
@@ -220,3 +220,18 @@
     7. install @react-google-maps/api
     8. use it in shipping screen
     9. apply map to the checkout screen.
+51. Email order reciept by mailgun
+    1. create mailgun account
+    2. add and verify your domain to mailgun
+    3. install mailgun-js
+    4. set api key in env file
+    5. change pay order in orderRouter
+    6. send email order reciept
+52. Review Orders
+    1. create submit review form
+    2. handle submit
+    3. implement backend api for review
+53. Upload multiple Images
+    1. add images to product
+    2. get images in edit screen
+    3. show images in product screen
