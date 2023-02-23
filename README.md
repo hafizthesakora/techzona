@@ -8,7 +8,7 @@ a. install nodejs on your machine and install the code as well
 
 b. Then "cd" into the frontend folder through your command line 
 
-c. Then you type `npm init` to download all the dependencies
+c. Then you type `npm install` to download all the dependencies
 
 d. You then type `npm start` to run the frontend
 
