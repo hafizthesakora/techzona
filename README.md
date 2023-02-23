@@ -1,6 +1,21 @@
-# MERN TECHZONA
+# A FULL MERN STACK ECOMMERCE WEB APPLICATION
 
-# Lessons
+This web application was built and designed by HAFIZ TOYYIB.
+
+To use this run this software you need to follow the instructions beneath;
+
+a. install nodejs on your machine and install the code as well
+
+b. Then "cd" into the frontend folder through your command line 
+
+c. Then you type `npm init` to download all the dependencies
+
+d. You then type `npm start` to run the frontend
+
+e. You repeat same for the backend folder starting from `c`.
+
+
+# Commits
 
 1. Introduction
 2. Install Tools
